@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+
+	  ]
+    },
+    {
+      "domain_suffix": [
+        ".blog.google",
+        ".googletraveladservices.com"	  
+	  ]
+    },
+	{
+      "domain_keyword": []
+    }
+    {
+      "ip_cidr": []
+    }
+	{
+      "PROCESS-NAME": []
+    }
+  ]
+}
