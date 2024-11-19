@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain": [
-	    "download.microsoft.com",
+	"download.microsoft.com",
         "wustat.windows.com",
         "ntservicepack.microsoft.com",
-        "speedtest.macpaw.com",
+        "speedtest.macpaw.com"
 	  ]
     },
     {
@@ -42,7 +42,7 @@
         ".istatmenus.app",
         ".imagetasks.com",
         ".netspeedtestmaster.com",
-		".cn"
+	".cn"
 	  ]
     },
     {
