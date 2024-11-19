@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        ".app-analytics-services.com",
+        ".dfaklj.tech",
+        ".app-measurement.com",
+        ".bdesk.tech",
+        ".bigo.tv",
+        ".bigolive.tv",
+        ".bigovideo.tv",
+        ".giphy.com",
+        ".hzmk.site",
+        ".like.video",
+        ".likee.video",
+        ".like-video.com",
+		".linhty.xyz",
+        ".appsflyersdk.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "202.168.0.0/16,no-resolve",
+        "202.63.0.0/16,no-resolve",
+        "116.63.0.0/16,no-resolve",
+        "164.90.0.0/16,no-resolve",
+        "103.139.72.231/32,no-resolve"
+      ]
+    }
+  ]
+}
