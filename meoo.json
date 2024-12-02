@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": []
+    },
+    {
+      "domain_suffix": [
+        ".mymeoo.cc",
+        ".dutils.com",
+        ".meoo.live"
+      ]
+    },
+    {
+      "ip_cidr": []
+    }
+  ]
+}
