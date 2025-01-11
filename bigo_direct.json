@@ -6,28 +6,31 @@
     },
     {
       "domain_suffix": [
-        ".app-analytics-services.com",
-        ".dfaklj.tech",
-        ".app-measurement.com",
-        ".bdesk.tech",
+        ".likee.video",
+        ".appsflyersdk.com",
         ".bigo.tv",
         ".bigolive.tv",
-        ".bigovideo.tv",
-        ".giphy.com",
-        ".hzmk.site",
         ".like.video",
-        ".likee.video",
+        ".app-analytics-services.com",
         ".like-video.com",
-        ".appsflyersdk.com",
+        ".bigopay.sg",
+        ".giphy.com",
+        ".dfaklj.tech",
+        ".bdesk.tech",
+        ".bigovideo.tv",
+        ".hzmk.site",
         ".bigopay.tech",
-        ".bigopay.sg"
+        ".linhty.xyz",
+        ".app-measurement.com",
+        ".sgmbocast.com"
       ]
     },
     {
       "ip_cidr": [
-        "202.63.51.0/24",
-        "202.63.48.0/24",
+        "164.90.0.0/16",
         "103.139.72.0/24",
+        "202.63.51.0/24",
+        "202.168.0.0/16",
         "164.90.0.0/16"
       ]
     }
